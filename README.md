@@ -9,16 +9,16 @@
 With **PrismSniper**, you can monitor new liquidity events on Solana DEXs and instantly execute trades when new tokens are listed, ensuring you get in on the ground floor before the price pumps. 🚀
 
 ## ✨ Features
-- ** Instant Token Sniping**: Snipe newly listed tokens on Solana with minimal delay.
-- ** Pump.fun Token Support**: Specifically targets **Pump.fun** ecosystem tokens.
-- ** Automatic Execution**: Buy tokens automatically when liquidity is added.
-- ** Low Latency**: Engineered for speed to minimize slippage and maximize profits.
-- ** Customizable**: Configure which tokens to snipe, slippage tolerance, and more.
+- **Instant Token Sniping**: Snipe newly listed tokens on Solana with minimal delay.
+- **Pump.fun Token Support**: Specifically targets **Pump.fun** ecosystem tokens.
+- **Automatic Execution**: Buy tokens automatically when liquidity is added.
+- **Low Latency**: Engineered for speed to minimize slippage and maximize profits.
+- **Customizable**: Configure which tokens to snipe, slippage tolerance, and more.
 
 ## 🛠️ Requirements
 - **Solana Wallet**: You must have a Solana wallet with sufficient SOL for transactions. 💰
 - **Solana CLI**: Install the Solana CLI for wallet management.
-- **System Requirements**: Compatible with Windows, macOS, and Linux. 🌍
+- **System Requirements**: Compatible with Windows. 🌍
 
 ## 📥 Installation
 
