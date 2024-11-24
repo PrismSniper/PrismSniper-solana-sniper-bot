@@ -1,5 +1,6 @@
 # 🎯 **PrismSniper** - Solana Token Sniper Bot
-![66956efeb01de969bd7b8abc_Logo Horizontal_white](https://github.com/user-attachments/assets/8e9b9d3b-e810-4a45-828d-379e482497aa)
+
+![66956efeb01de969bd7b8abc_Logo Horizontal](https://github.com/user-attachments/assets/b0ebe13a-1b9d-4a03-bc64-8beb82aabe83)
 
 
 ## 🚀 Overview
